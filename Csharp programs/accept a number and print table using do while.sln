@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "accept a number and print table using do while", "accept a number and print table using do while\accept a number and print table using do while.csproj", "{699A1A09-552D-4AE8-A8B4-0371B5D79A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699A1A09-552D-4AE8-A8B4-0371B5D79A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699A1A09-552D-4AE8-A8B4-0371B5D79A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699A1A09-552D-4AE8-A8B4-0371B5D79A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699A1A09-552D-4AE8-A8B4-0371B5D79A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A05F80AB-7BE5-4C5E-965B-CFDF37C6948E}
+	EndGlobalSection
+EndGlobal
