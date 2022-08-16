@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.sign class product use different parameter", "A.sign class product use different parameter\A.sign class product use different parameter.csproj", "{0CDD5B74-062D-44FB-ACC6-C673FCF4B5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDD5B74-062D-44FB-ACC6-C673FCF4B5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDD5B74-062D-44FB-ACC6-C673FCF4B5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDD5B74-062D-44FB-ACC6-C673FCF4B5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDD5B74-062D-44FB-ACC6-C673FCF4B5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F800DE6F-6B08-405C-9DA3-8B89FF0720D6}
+	EndGlobalSection
+EndGlobal
