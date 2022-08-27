@@ -1,0 +1,15 @@
+C:\Users\saga\Desktop\Csharp\radius\radius\bin\Debug\net6.0\radius.exe
+C:\Users\saga\Desktop\Csharp\radius\radius\bin\Debug\net6.0\radius.deps.json
+C:\Users\saga\Desktop\Csharp\radius\radius\bin\Debug\net6.0\radius.runtimeconfig.json
+C:\Users\saga\Desktop\Csharp\radius\radius\bin\Debug\net6.0\radius.dll
+C:\Users\saga\Desktop\Csharp\radius\radius\bin\Debug\net6.0\radius.pdb
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\radius.csproj.AssemblyReference.cache
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\radius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\radius.AssemblyInfoInputs.cache
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\radius.AssemblyInfo.cs
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\radius.csproj.CoreCompileInputs.cache
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\radius.dll
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\refint\radius.dll
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\radius.pdb
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\radius.genruntimeconfig.cache
+C:\Users\saga\Desktop\Csharp\radius\radius\obj\Debug\net6.0\ref\radius.dll
