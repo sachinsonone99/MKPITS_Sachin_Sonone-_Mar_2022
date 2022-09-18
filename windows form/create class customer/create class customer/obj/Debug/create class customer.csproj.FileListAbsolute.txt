@@ -1,0 +1,11 @@
+D:\Csharp\2 sep generic collections\create class customer\create class customer\bin\Debug\create class customer.exe.config
+D:\Csharp\2 sep generic collections\create class customer\create class customer\bin\Debug\create class customer.exe
+D:\Csharp\2 sep generic collections\create class customer\create class customer\bin\Debug\create class customer.pdb
+D:\Csharp\2 sep generic collections\create class customer\create class customer\obj\Debug\create class customer.csproj.AssemblyReference.cache
+D:\Csharp\2 sep generic collections\create class customer\create class customer\obj\Debug\create class customer.csproj.SuggestedBindingRedirects.cache
+D:\Csharp\2 sep generic collections\create class customer\create class customer\obj\Debug\create_class_customer.Form1.resources
+D:\Csharp\2 sep generic collections\create class customer\create class customer\obj\Debug\create_class_customer.Properties.Resources.resources
+D:\Csharp\2 sep generic collections\create class customer\create class customer\obj\Debug\create class customer.csproj.GenerateResource.cache
+D:\Csharp\2 sep generic collections\create class customer\create class customer\obj\Debug\create class customer.csproj.CoreCompileInputs.cache
+D:\Csharp\2 sep generic collections\create class customer\create class customer\obj\Debug\create class customer.exe
+D:\Csharp\2 sep generic collections\create class customer\create class customer\obj\Debug\create class customer.pdb
